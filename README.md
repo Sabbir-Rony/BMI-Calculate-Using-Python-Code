@@ -1,1 +1,1 @@
-# BMI-Calculate-Using-Python-Code
+# Diabetes-Prediction-Calculate-Using-Python-Code
